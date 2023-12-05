@@ -35,3 +35,6 @@ The system should provide flexibility for future enhancements, such as personali
 
 The system should be scalable to handle a growing number of subscribers without compromising performance.
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
+
+![3BSCS1_Rubinos_LAB_A8_SE1](https://github.com/AaronRubinos/ObserverPattern/assets/142986554/c42f83d4-4be7-42b1-adae-53e858ca038f)
+
